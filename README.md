@@ -1,4 +1,17 @@
-### Hi there 👋
+### 👋 Hi there, my name is Hylton
+
+Here are some things to know about me
+
+- 🔭 I’m currently working on policy topics related to financial stability, fiscal sustainability, and distributional macroeconomics.
+- 🔭 I’m also working on models that integrate financial frictions into a dynamic general equilibrium setting.
+- ⚡ Fun fact: I pretty much enjoy any sport and outdoor activity.
+
+Here are some of the things I am currently learning more about
+
+- 🌱 Programming in `MATLAB`, `R` and `Julia`.
+- 🌱 Computational methods for dynamic general equilibrium models.
+
+You are free to use any resources. Please notify me of any errors or ommissions.
 
 <!--
 **hollander03/hollander03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
