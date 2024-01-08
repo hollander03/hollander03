@@ -4,7 +4,7 @@ Here are some things to know about me
 
 - 🔭 I’m currently working on policy topics related to financial stability, fiscal sustainability, and distributional macroeconomics.
 - 🔭 I’m also working on models that integrate financial frictions into a dynamic general equilibrium setting.
-- ⚡ Fun fact: I pretty much enjoy any sport and outdoor activity.
+- ⚡ Fun fact: I play club cricket and hockey as much as possible.
 
 Here are some of the things I am currently learning more about
 
