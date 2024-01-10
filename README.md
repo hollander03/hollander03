@@ -9,6 +9,7 @@ Here are some things to know about me
 Here are some of the things I am currently learning more about
 
 - 🌱 Programming in `MATLAB`, `R` and `Julia`.
+- 🌱 Heterogenous agent models.
 - 🌱 Computational methods for dynamic general equilibrium models.
 
 You are free to use any resources. Please notify me of any errors or ommissions.
